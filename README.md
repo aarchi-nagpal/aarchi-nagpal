@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarchi Nagpal</h1>
-<h3 align="center">A passionate Data Scientistr from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 - 📫 How to reach me **nagpalaarchi@gmail.com**
 
